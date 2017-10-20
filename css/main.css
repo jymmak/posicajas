@@ -1,0 +1,62 @@
+body{
+    /*Le daremos estos valores a body*/
+    margin:25px;
+    
+}
+
+.caja1{
+    /*Esta es nuestra caja contenedora de nuetro trabajo*/
+    background-color: red;
+    width:280px;
+    height:280px;
+    margin:30px;
+    position:relative;
+}
+
+
+#cajaa{
+    background-color:purple;
+    width:150px;
+    height:150px;
+    position:absolute;
+    bottom:62px;
+    right:62px;
+   
+}
+
+#cajab{
+    background-color:yellow;
+    width:80px;
+    height:80px;
+    top:68px;
+    left:68px;
+    position:absolute;
+}
+
+
+.caja2{
+    /*Esta es nuestra caja contenedora de nuetro trabajo*/
+    background-color: blue;
+    width:280px;
+    height:280px;
+    margin:30px;
+    position:relative;
+}
+
+
+#cajac{
+    background-color:green;
+    width:148px;
+    height:148px;
+    position:absolute;
+    bottom:63px;
+    right:63px;
+   
+}
+
+#cajad{
+    background-color:black;
+    width:70px;
+    height:70px;
+    position:relative;
+}
